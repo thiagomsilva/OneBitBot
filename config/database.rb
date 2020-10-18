@@ -5,6 +5,7 @@ configure :test do
       database: 'onebitbot_test',
       pool: 5,
       username: 'postgres',
+      password: 'postgres',
       host: 'postgres'
     }
   end
