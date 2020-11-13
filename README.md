@@ -4,12 +4,12 @@ Aplicação do tipo chatbot com funções de FAQ que permite aos usuários armaz
 
 # Stacks do projeto
 
-Sinatra
-Postgresql
-Dialogflow
-Docker
-Docker Compose
-Telegram
+- Sinatra
+- Postgresql
+- Dialogflow
+- Docker
+- Docker Compose
+- Telegram
 
 # API disponível em:
 
